@@ -1,2 +1,2 @@
 # DataVisualization
-DataVisualiztion using powerbi first Clean Data using power query then use Data Report 
+DataVisualiztion using powerbi first Clean Data using power query then Data Report 
